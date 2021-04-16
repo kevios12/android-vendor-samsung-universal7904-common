@@ -1,4 +1,4 @@
-# Vendor - Samsung, 
+# Vendor - Samsung [Bellow]
 Platform: Universal7904
 Vendor: Universal7904-common
 
